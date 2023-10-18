@@ -1,4 +1,9 @@
-# Attributions
+---
+layout: page
+title: Attributions
+include_in_header: true
+---
+### Attributions
 
 - **AnimateText** package used for animating the text in the launch screen. Check out the [code](https://github.com/jasudev/AnimateText) and check out [@dev.fabula](https://www.instagram.com/dev.fabula) on Instagram.
 - **SwiftUI VerticalTabView** package was used to create paged vertical content. Check out [Lorenzo Fiamingo's code](https://github.com/lorenzofiamingo/SwiftUI-VerticalTabView")
