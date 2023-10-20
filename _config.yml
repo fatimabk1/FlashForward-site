@@ -1,5 +1,5 @@
 #page title
-page_title                                : FlashWise                                 # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                :                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 6469705776                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/Icon-1024.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Say goodbye to tedious manual data entry. Enhance your study experience and efficiency with FlashWise's intelligent flashcard automation and rapid search capabilities.
+app_description                           : Say goodbye to tedious manual data entry. Enhance your study experience and efficiency with intelligent flashcard automation and rapid search capabilities.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
